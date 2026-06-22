@@ -12,3 +12,8 @@
 > A colour palette is also provided if we want to utilise various hues. 
 
 > If you have a friend, you can open the link and start painting on the canvas jointly, thanks to this application's websocket feature.
+
+
+## 🚀 Live Demo
+
+[Check out the live version here.](https://capable-dragon-45716a.netlify.app/)
